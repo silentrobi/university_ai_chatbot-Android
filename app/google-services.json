@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "471607840847",
+    "firebase_url": "https://iyte-ai-assistant-9eaf7.firebaseio.com",
+    "project_id": "iyte-ai-assistant-9eaf7",
+    "storage_bucket": "iyte-ai-assistant-9eaf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471607840847:android:92a15c1dc2e1e7a8",
+        "android_client_info": {
+          "package_name": "com.example.iyteaiassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471607840847-3pmu2iu6oee6fla3ntnjsnhi4lbhfil6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDZM6eihqBSq2rdbDK-4egYjgX_KYnlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

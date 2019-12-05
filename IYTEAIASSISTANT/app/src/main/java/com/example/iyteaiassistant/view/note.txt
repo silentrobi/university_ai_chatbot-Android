@@ -1,0 +1,2 @@
+1. move all validation methods to a Class to minimize redundency.
+2. build session for user
