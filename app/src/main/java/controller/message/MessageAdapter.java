@@ -86,7 +86,7 @@ public class MessageAdapter extends BaseAdapter  {
                  to store data related to views in the views themselves rather than by putting them in a separate structure.
                */
                 convertView.setTag(holder);
-                holder.name.setText("IYTE AI Assistant");
+                holder.name.setText("Karabuk AI Assistant");
                 holder.messageBody.setText(message.getText());
                 holder.messageBody.setTextIsSelectable(true);
 
