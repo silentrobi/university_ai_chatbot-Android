@@ -1,4 +1,4 @@
-package com.example.iyteaiassistant.view;
+package com.example.karabukaiassistant.view;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
@@ -15,7 +15,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ListView;
 
-import com.example.iyteaiassistant.R;
+import com.example.karabukaiassistant.R;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

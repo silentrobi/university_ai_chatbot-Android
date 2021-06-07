@@ -1,4 +1,4 @@
-package com.example.iyteaiassistant;
+package com.example.karabukaiassistant;
 
 import org.junit.Test;
 

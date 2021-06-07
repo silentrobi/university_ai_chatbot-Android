@@ -1,4 +1,4 @@
-package com.example.iyteaiassistant.view;
+package com.example.karabukaiassistant.view;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -9,11 +9,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.iyteaiassistant.R;
+import com.example.karabukaiassistant.R;
 
 import controller.database.DatabaseHelper;
-import com.example.iyteaiassistant.helper.Session;
-import com.example.iyteaiassistant.helper.Validate;
+import com.example.karabukaiassistant.helper.Session;
+import com.example.karabukaiassistant.helper.Validate;
 
 public class LoginActivity extends AppCompatActivity{
 

@@ -1,4 +1,4 @@
-package com.example.iyteaiassistant;
+package com.example.karabukaiassistant;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

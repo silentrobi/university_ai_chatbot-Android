@@ -1,4 +1,4 @@
-package com.example.iyteaiassistant.view;
+package com.example.karabukaiassistant.view;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -7,7 +7,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.iyteaiassistant.R;
+import com.example.karabukaiassistant.R;
 
 import ai.api.AIListener;
 import ai.api.android.AIConfiguration;

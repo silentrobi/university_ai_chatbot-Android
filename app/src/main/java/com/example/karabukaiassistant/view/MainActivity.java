@@ -1,4 +1,4 @@
-package com.example.iyteaiassistant.view;
+package com.example.karabukaiassistant.view;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import com.example.iyteaiassistant.R;
+import com.example.karabukaiassistant.R;
 import controller.helper.Session;
 
 /* first activity to run when user launch the application */
